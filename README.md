@@ -45,11 +45,11 @@ Desenvolvimento de um tacômetro (medidor de rotação) utilizando Arduino. O pr
 
 <p align="center">
   <a href="https://github.com/M3d3iro5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M3d3iro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M3d3iro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3d3iro5&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3d3iro5&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
   </a>
-</p
+</p>
 
 ---
 
