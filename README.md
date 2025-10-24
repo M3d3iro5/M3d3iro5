@@ -1,4 +1,4 @@
-# Olá, eu sou o [Luiz Medeiros - SEU NOME AQUI]! 👋
+# Olá, eu sou o Luiz Felipe Medeiros! 👋
 
 Sou estudante de Engenharia Mecânica na UFU, com experiência prática em análise estrutural e um grande entusiasta de **SolidWorks**. Minha paixão é atuar como projetista e analista estrutural, aplicando conhecimentos técnicos para desenvolver projetos e resolver problemas complexos de engenharia.
 
